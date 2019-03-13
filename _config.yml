@@ -15,8 +15,8 @@ logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 # Tertiary Parameters
 github_username:  ibnuhudaya
 project_repository: ibnuhudaya.github.io
-#disqus_shortname: project-pages
-#g-analytics: UA-75881392-1
+disqus_shortname: project-pages
+g-analytics: UA-75881392-1
 altmetric: true
 
 # Build settings
